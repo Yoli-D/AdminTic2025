@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laboratorio1AdmonTIC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e3ab46dc39ecd273e94643164d22798bcf17ceb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b28d50cc40d9eb37d672f3f6ddbf51787ded70b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laboratorio1AdmonTIC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laboratorio1AdmonTIC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
