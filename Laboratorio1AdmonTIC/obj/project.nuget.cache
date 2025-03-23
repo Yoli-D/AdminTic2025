@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hyohzrPt6t0=",
+  "dgSpecHash": "F6PeSkXKLyE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vboxuser\\Documents\\noveno semestre\\administracion de tecnologias\\Laboratorio1AdmonTIC\\Laboratorio1AdmonTIC\\Laboratorio1AdmonTIC.csproj",
+  "projectFilePath": "C:\\Users\\vboxuser\\Documents\\GitHub\\AdminTic2025\\Laboratorio1AdmonTIC\\Laboratorio1AdmonTIC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vboxuser\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\vboxuser\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
